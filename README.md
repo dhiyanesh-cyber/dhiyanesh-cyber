@@ -101,9 +101,9 @@
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/dhiyanesh03" target="_blank">
-  <img align="center" alt="Dhiyanesh | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <img align="center" alt="Dhiyanesh | Linkedin" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 <a href="mailto:dhiyaneshsasi03@gmail.com" >
-  <img align="center" alt="Dhiyanesh | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <img align="center" alt="Dhiyanesh | Gmail" width="48px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
 </a>
 </p>
