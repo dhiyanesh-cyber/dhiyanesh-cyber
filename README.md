@@ -97,7 +97,7 @@
 <br>
 
   <div align="center">
-  <h3><b>Let's Get Connected! ✌️😄</b></h3>
+  <h3><b>Let's Get Connected!✌️😄</b></h3>
   </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/dhiyanesh03" target="_blank">
