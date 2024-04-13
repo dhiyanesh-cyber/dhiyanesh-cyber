@@ -37,6 +37,8 @@
 <p align="left">
   &emsp;
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat&logo=Adobe%20Photoshop&logoColor=white"/>
+
  </p>
 
 ### 👉 Software & Tools
