@@ -1,4 +1,4 @@
-## Yo! ✌️ I'm Dhiyanesh
+## I'm Dhiyanesh
 
 ### 💻 &nbsp;About Me 
 
