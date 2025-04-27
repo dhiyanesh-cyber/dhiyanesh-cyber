@@ -3,8 +3,8 @@
 ### 💻 &nbsp;About Me 
 
 - 🎓 &nbsp; 21y/o Aspiring Web Developer
-- 💡 &nbsp; Enthusiastic about Frontend Development
-- 🌐 &nbsp; Passionate about crafting engaging web experiences
+- 💡 &nbsp; Enthusiastic about Fullstack Development
+- 🌐 &nbsp; Passionate about crafting engaging web experiences & mobile apps as well
 
 <br>
 
